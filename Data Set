@@ -1,0 +1,15 @@
+Sample Datasets University Course Registration Queue System
+
+(Id, Description, Arrival Rate, Service Rate, No.of Counters, Average Service Time, Observation Period )
+
+
+[D1, Morning load, 5, 3, 3, 20, 2]
+[D2, Moderate flow, 8, 4, 3, 15, 3]
+[D3, Peak hour, 12, 4, 3, 15, 3]
+[D4, Increased counters, 12, 4, 5, 15, 3]
+[D5, End of day rush, 10, 3, 2, 20, 2]
+[D6, Reduced staff, 7, 4, 2, 15, 3]
+[D7, Added temporary counters, 9, 3, 6, 20, 3]
+[D8, registration deadline, 15, 4, 3, 15, 4]
+
+
