@@ -1,6 +1,6 @@
 Sample Datasets University Course Registration Queue System
 
-(Id, Description, Arrival Rate, Service Rate, No.of Counters, Average Service Time, Observation Period )
+(Id, Description, Arrival Rate(students/min), Service Rate(students/min per officer), No.of Counters, Average Service Time(sec/student), Observation Period(hours))
 
 
 [D1, Morning load, 5, 3, 3, 20, 2]
